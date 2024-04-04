@@ -1,3 +1,4 @@
+![image](https://drive.google.com/uc?export=view&id=1uDquDoTiKn90KBRE7AkD1O0TldBggtr_)
 <h1 align="center">Hi 👋, I'm Satmika Antargata Ozora</h1>
 <h3 align="center">Enthusiastic about learning and developing technical skills in software engineering. Committed to continuous learning and contributing to the technology industry for sustainable success.</h3>
 
@@ -16,4 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaozora&show_icons=true&locale=en&layout=compact" alt="mikaozora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaozora&show_icons=true&theme=tokyonight&locale=en" alt="mikaozora" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaozora&show_icons=true&locale=en" alt="mikaozora" /></p>
+
